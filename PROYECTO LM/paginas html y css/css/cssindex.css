@@ -1,0 +1,91 @@
+  body {
+      background-color: #3b3b3b;
+  }
+  
+  #contenedor {
+      width: auto;
+      height: 600px;
+      background-color: white;
+      margin: auto;
+      padding: 0px;
+  }
+  
+  nav {
+      background-color: #512df1;
+      width: 100%;
+      height: 80px;
+      padding: 1px;
+  }
+  
+  #navegador {
+      width: auto;
+      height: auto;
+      position: sticky;
+      top: 0px;
+  }
+  
+  #main {
+      width: 100%;
+      height: 500px;
+      padding-top: 1px;
+      background-image: url("../img/liderazgo-de-equipos-girona-1024x683.jpg");
+      background-repeat: no-repeat;
+  }
+  
+  input {
+      margin-left: 43%;
+      margin-top: 50px;
+      text-align: center;
+      background-color: #fafafa;
+      padding: 10px;
+      border-radius: 12px;
+      width: 150px;
+  }
+  
+  li {
+      list-style: none;
+      display: inline-block;
+      padding: 23px 20px;
+      margin-left: 0px;
+  }
+  
+  nav li:hover {
+      background-color: #7296f8;
+  }
+  
+  a {
+      text-decoration: none;
+      color: #fafafa;
+      margin-left: 20px;
+  }
+  
+  h1 a {
+      color: black;
+  }
+  
+  h1 {
+      font-size: 50px;
+      margin-left: 80px;
+      margin-bottom: 5px;
+      margin-top: 5px;
+  }
+  
+  h5 {
+      color: grey;
+      font-size: 15px;
+      margin-left: 100px;
+      margin-top: 3px;
+  }
+  
+  h3 {
+      text-align: center;
+      font-size: 40px;
+      margin-top: 100px;
+      color: #fafafa;
+  }
+  
+  p {
+      text-align: center;
+      font-size: 20px;
+      color: #fafafa;
+  }
